@@ -437,6 +437,8 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
  
 - <img height="12" width="12" src="https://cdn.zapier.com/zapier/images/favicon.ico" alt="Zapier Logo" /> [Zapier](https://zapier.com/mcp) - Connect your AI Agents to 8,000 apps instantly.
 
+- [Semantic Tool Router](https://github.com/arunmm8335/semantic-tool-router) - A Retrieval-Augmented Generation (RAG) pre-processing layer for MCP tools. Dynamically routes only the top-K relevant tools to your LLM's context window to reduce token costs.
+
 <br />
 
 ## 💬 <a name="language"></a>Language & Translation
